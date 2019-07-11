@@ -2,7 +2,7 @@
     "name": "dajoho/itunes-php",
     "description": "Parse an iTunes XML file (the full library or partial export) for its info, tracks and playlists. Original work by Robert A. Wallis, with PHP5 support by Peter Minarik.",
     "type": "library",
-    "license": "LGPL",
+    "license": "LGPL-2.1-only",
     "authors": [
         {
             "name": "Dave Holloway",
